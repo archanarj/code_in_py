@@ -33,3 +33,11 @@ Array [5] = "are adding more text"
 Array [6] = "to   see   that   it"
 
 Array [7] = "actually      works.”
+
+
+
+
+
+2. Backup couchbasedb bucket , compress the backup , cleanup old backup using python
+
+
