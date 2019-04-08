@@ -42,3 +42,4 @@ Array [7] = "actually      works.”
 
 
 # monitor_sqlserver_using_dmvs
+# Configuration-Management-Tool-in-bash
